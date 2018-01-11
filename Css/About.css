@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.orgins
+{
+display: block;
+float:left;
+width:50%;
+}
+.main2{
+float:right;
+display: block;
+clear:right
+}	
+.main3{
+float:left;
+position:below;	
+clear:both;
+color:blue;
+font-siz
+}
+.main4{
+clear:both;
+color:red;
+font-size:18px		
+	
+	
+}
